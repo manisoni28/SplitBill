@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Split</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_percentage">Percentage</string>
+    <string name="action_load">Transactions</string>
+    <string name="action_new">New</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_accept">Accept</string>
+    <string name="title_activity_product">ExpenseActivity</string>
+    <string name="totalPaidTV">Total Expense Paid:</string>
+    <string name="currency">0Rs.</string>
+    <string name="nameTV">Name:</string>
+    <string name="paidTV">Paid:</string>
+    <string name="addPersonButton">Add</string>
+    <string name="remPersonButton">Rem</string>
+    <string name="submitButton">Submit</string>
+    <string name="productNameTV">Name:</string>
+    <string name="productCostTV">Cost:</string>
+    <string name="unityRB">per unity</string>
+    <string name="kgRB">per kG</string>
+    <string name="quantityTV">Quantity:</string>
+    <string name="checkbox">Name</string>
+    <string name="percentageTV">0%</string>
+    <string name="nextButton">ADD</string>
+    <string name="endButton">END</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="resultTV">Placeholder</string>
+    <string name="restartB">Restart</string>
+    <string name="units">units</string>
+    <string name="fixButton">Fix previous expense</string>
+    <string name="title_activity_list_products">ListExpensesActivity</string>
+    <string name="remProdButton">REMOVE</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+</resources>
